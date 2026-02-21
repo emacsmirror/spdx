@@ -9,7 +9,7 @@
 
 ;;; Code:
 
-(defconst spdx-data-release-date "2026-01-30T00:00:00Z")
+(defconst spdx-data-release-date "2026-02-20T00:00:00Z")
 
 (defconst spdx-data-license-identifiers
   '(
@@ -77,6 +77,7 @@
     "BlueOak-1.0.0"
     "Boehm-GC"
     "Boehm-GC-without-fee"
+    "BOLA-1.1"
     "Borceux"
     "Brian-Gladman-2-Clause"
     "Brian-Gladman-3-Clause"
@@ -543,6 +544,7 @@
     "OPL-1.0"
     "OPL-UK-3.0"
     "OPUBL-1.0"
+    "OSC-1.0"
     "OSET-PL-2.1"
     "OSL-1.0"
     "OSL-1.1"
