@@ -9,7 +9,7 @@
 
 ;;; Code:
 
-(defconst spdx-data-release-date "2026-04-13T00:00:00Z")
+(defconst spdx-data-release-date "2026-04-23T00:00:00Z")
 
 (defconst spdx-data-license-identifiers
   '(
@@ -81,6 +81,7 @@
     "Borceux"
     "Brian-Gladman-2-Clause"
     "Brian-Gladman-3-Clause"
+    "Brian-Gladman-3-Clause-no-conversion"
     "BSD-1-Clause"
     "BSD-2-Clause"
     "BSD-2-Clause-Darwin"
@@ -468,6 +469,7 @@
     "MulanPSL-2.0"
     "Multics"
     "Mup"
+    "MVT-1.1"
     "NAIST-2003"
     "NASA-1.3"
     "Naumen"
