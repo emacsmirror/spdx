@@ -9,7 +9,7 @@
 
 ;;; Code:
 
-(defconst spdx-data-release-date "2026-07-16T00:00:00Z")
+(defconst spdx-data-release-date "2026-08-24T00:00:00Z")
 
 (defconst spdx-data-license-identifiers
   '(
@@ -117,6 +117,7 @@
     "BSD-Protection"
     "BSD-Source-beginning-file"
     "BSD-Source-Code"
+    "BSD-Source-Code-no-disclaimer"
     "BSD-Systemics"
     "BSD-Systemics-W3Works"
     "BSL-1.0"
@@ -271,6 +272,7 @@
     "Fair"
     "FBM"
     "FDK-AAC"
+    "FDK-MPEG-H"
     "Ferguson-Twofish"
     "Frameworx-1.0"
     "FreeBSD-DOC"
