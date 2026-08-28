@@ -9,7 +9,7 @@
 
 ;;; Code:
 
-(defconst spdx-data-release-date "2026-08-24T00:00:00Z")
+(defconst spdx-data-release-date "2026-08-27T00:00:00Z")
 
 (defconst spdx-data-license-identifiers
   '(
@@ -89,6 +89,7 @@
     "BSD-2-Clause-first-lines"
     "BSD-2-Clause-Patent"
     "BSD-2-Clause-pkgconf-disclaimer"
+    "BSD-2-Clause-pos-unchanged"
     "BSD-2-Clause-Views"
     "BSD-3-Clause"
     "BSD-3-Clause-acpica"
@@ -111,6 +112,7 @@
     "BSD-4.3RENO"
     "BSD-4.3TAHOE"
     "BSD-Advertising-Acknowledgement"
+    "BSD-ask-to-endorse"
     "BSD-Attribution-HPND-disclaimer"
     "BSD-Inferno-Nettverk"
     "BSD-Mark-Modifications"
