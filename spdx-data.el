@@ -9,7 +9,7 @@
 
 ;;; Code:
 
-(defconst spdx-data-release-date "2026-08-27T00:00:00Z")
+(defconst spdx-data-release-date "2026-09-02T00:00:00Z")
 
 (defconst spdx-data-license-identifiers
   '(
@@ -104,6 +104,7 @@
     "BSD-3-Clause-No-Nuclear-License-2014"
     "BSD-3-Clause-No-Nuclear-Warranty"
     "BSD-3-Clause-Open-MPI"
+    "BSD-3-Clause-OpenWebUI"
     "BSD-3-Clause-Sun"
     "BSD-3-Clause-Tso"
     "BSD-4-Clause"
@@ -333,6 +334,7 @@
     "hdparm"
     "HIDAPI"
     "Hippocratic-2.1"
+    "Hippocratic-3.0-core"
     "HP-1986"
     "HP-1989"
     "HPND"
