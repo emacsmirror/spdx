@@ -9,7 +9,7 @@
 
 ;;; Code:
 
-(defconst spdx-data-release-date "2026-09-10T00:00:00Z")
+(defconst spdx-data-release-date "2026-09-16T00:00:00Z")
 
 (defconst spdx-data-license-identifiers
   '(
@@ -118,6 +118,7 @@
     "BSD-Inferno-Nettverk"
     "BSD-Mark-Modifications"
     "BSD-Protection"
+    "BSD-Source-alt-GPL"
     "BSD-Source-beginning-file"
     "BSD-Source-Code"
     "BSD-Source-Code-no-disclaimer"
